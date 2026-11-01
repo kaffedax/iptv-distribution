@@ -1,1 +1,1 @@
-{"schemaVersion":1,"channels":{"test":{"published":true,"version":"4.82.0-test.22"},"stable":{"published":true,"version":"4.81.6"}}}
+{"schemaVersion":1,"channels":{"stable":{"published":true,"version":"4.82.0"},"test":{"published":true,"version":"4.82.0-test.22"}}}
